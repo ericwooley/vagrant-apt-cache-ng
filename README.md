@@ -3,7 +3,7 @@ vagrant-apt-cache-ng
 
 A vagrant box that you can use as an apt cache.
 
-Usuage
+Usage
 ======
 
 1. Modify the ip address to fit your needs in the VagrantFile `config.vm.network :public_network, ip: "YOUR.IP.HERE.!"` or leave it as the IP it's already set too.
